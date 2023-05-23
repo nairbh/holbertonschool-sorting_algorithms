@@ -20,6 +20,7 @@ void swap(int *a, int *b)
 void selection_sort(int *array, size_t size)
 {
 	size_t rand_index, inner_index, min_index;
+
 	rand_index = 0;
 
 	while (rand_index < size - 1)
