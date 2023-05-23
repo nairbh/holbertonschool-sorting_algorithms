@@ -1,3 +1,5 @@
+![331125_630361](https://user-images.githubusercontent.com/124582867/229380110-7673c718-e712-4ac6-aa56-c816d5535188.png)
+
 # C - Sorting algorithms & Big O
 
 ## Background Context
@@ -48,7 +50,7 @@ This project includes the following functions:
 
 ### Authors
 - [Nairbh](https://github.com/nairbh)
-- [Brice](https://github.com/bricorne)
+- [![Nairbh](https://zupimages.net/up/23/21/rskr.jpeg)](https://github.com/nairbh) | [![Brice](https://zupimages.net/up/23/21/bo4t.jpeg)](https://github.com/bricorne)
 
 ### Acknowledgements
 This project was completed as part of the curriculum of [Holberton School/holbertonschool-sorting_algorithms].
