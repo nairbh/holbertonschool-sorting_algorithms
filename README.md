@@ -49,8 +49,10 @@ This project includes the following functions:
 
 
 ### Authors
-- [Nairbh](https://github.com/nairbh)
-- [![Nairbh](https://zupimages.net/up/23/21/rskr.jpeg)](https://github.com/nairbh) | [![Brice](https://zupimages.net/up/23/21/bo4t.jpeg)](https://github.com/bricorne)
+<a href="https://github.com/nairbh"><img src="https://zupimages.net/up/23/21/rskr.jpeg" alt="Nairbh" width="100" height="100" style="border-radius: 50%;"></a> | <a href="https://github.com/bricorne"><img src="https://zupimages.net/up/23/21/bo4t.jpeg" alt="Brice" width="100" height="100" style="border-radius: 50%;"></a>
+:---:|:---:
+[Nairbh](https://github.com/nairbh) | [Brice](https://github.com/bricorne)
+
 
 ### Acknowledgements
 This project was completed as part of the curriculum of [Holberton School/holbertonschool-sorting_algorithms].
